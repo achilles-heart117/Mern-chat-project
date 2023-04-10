@@ -1,454 +1,81 @@
-Contribution: 2022-10-11 00:00
 
-Contribution: 2022-10-11 00:01
+# Talk-A-Tive
 
-Contribution: 2022-10-11 00:02
+Talk-a-tive is a Full Stack Chatting App.
+Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
+## Tech Stack
 
-Contribution: 2022-10-11 00:03
+**Client:** React JS
 
-Contribution: 2022-10-11 00:04
+**Server:** Node JS, Express JS
 
-Contribution: 2022-10-11 00:05
+**Database:** Mongo DB
+  
+## Demo
 
-Contribution: 2022-10-11 00:06
+https://talk-a-tive.herokuapp.com/
 
-Contribution: 2022-10-12 00:00
+![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
+## Run Locally
 
-Contribution: 2022-10-12 00:01
+Clone the project
 
-Contribution: 2022-10-12 00:02
+```bash
+  git clone https://github.com/piyush-eon/mern-chat-app
+```
 
-Contribution: 2022-10-12 00:03
+Go to the project directory
 
-Contribution: 2022-10-12 00:04
+```bash
+  cd mern-chat-app
+```
 
-Contribution: 2022-10-13 00:00
+Install dependencies
 
-Contribution: 2022-10-13 00:01
+```bash
+  npm install
+```
 
-Contribution: 2022-10-13 00:02
+```bash
+  cd frontend/
+  npm install
+```
 
-Contribution: 2022-10-13 00:03
+Start the server
 
-Contribution: 2022-10-13 00:04
+```bash
+  npm run start
+```
+Start the Client
 
-Contribution: 2022-10-13 00:05
+```bash
+  //open now terminal
+  cd frontend
+  npm start
+```
 
-Contribution: 2022-10-13 00:06
+  
+# Features
 
-Contribution: 2022-10-13 00:07
+### Authenticaton
+![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/login.PNG)
+![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/signup.PNG)
+### Real Time Chatting with Typing indicators
+![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/real-time.PNG)
+### One to One chat
+![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/mainscreen.PNG)
+### Search Users
+![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/search.PNG)
+### Create Group Chats
+![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/new%20grp.PNG)
+### Notifications 
+![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
+### Add or Remove users from group
+![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/add%20rem.PNG)
+### View Other user Profile
+![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/profile.PNG)
+## Made By
 
-Contribution: 2022-10-13 00:08
+- [@Piyush-eon](https://github.com/piyush-eon)
 
-Contribution: 2022-10-18 00:00
-
-Contribution: 2022-10-18 00:01
-
-Contribution: 2022-10-18 00:02
-
-Contribution: 2022-10-18 00:03
-
-Contribution: 2022-10-18 00:04
-
-Contribution: 2022-10-19 00:00
-
-Contribution: 2022-10-19 00:01
-
-Contribution: 2022-10-19 00:02
-
-Contribution: 2022-10-19 00:03
-
-Contribution: 2022-10-19 00:04
-
-Contribution: 2022-10-19 00:05
-
-Contribution: 2022-10-20 00:00
-
-Contribution: 2022-10-20 00:01
-
-Contribution: 2022-10-20 00:02
-
-Contribution: 2022-10-20 00:03
-
-Contribution: 2022-10-20 00:04
-
-Contribution: 2022-10-20 00:05
-
-Contribution: 2022-10-20 00:06
-
-Contribution: 2022-10-20 00:07
-
-Contribution: 2022-10-20 00:08
-
-Contribution: 2022-10-20 00:09
-
-Contribution: 2022-10-21 00:00
-
-Contribution: 2022-10-21 00:01
-
-Contribution: 2022-10-21 00:02
-
-Contribution: 2022-10-21 00:03
-
-Contribution: 2022-10-21 00:04
-
-Contribution: 2022-10-21 00:05
-
-Contribution: 2022-10-21 00:06
-
-Contribution: 2022-10-24 00:00
-
-Contribution: 2022-10-24 00:01
-
-Contribution: 2022-10-24 00:02
-
-Contribution: 2022-10-24 00:03
-
-Contribution: 2022-10-24 00:04
-
-Contribution: 2022-10-24 00:05
-
-Contribution: 2022-10-25 00:00
-
-Contribution: 2022-10-25 00:01
-
-Contribution: 2022-10-25 00:02
-
-Contribution: 2022-10-25 00:03
-
-Contribution: 2022-10-25 00:04
-
-Contribution: 2022-10-25 00:05
-
-Contribution: 2022-10-26 00:00
-
-Contribution: 2022-10-26 00:01
-
-Contribution: 2022-10-26 00:02
-
-Contribution: 2022-10-26 00:03
-
-Contribution: 2022-10-26 00:04
-
-Contribution: 2022-10-26 00:05
-
-Contribution: 2022-10-26 00:06
-
-Contribution: 2022-10-26 00:07
-
-Contribution: 2022-10-26 00:08
-
-Contribution: 2022-10-26 00:09
-
-Contribution: 2022-10-31 00:00
-
-Contribution: 2022-10-31 00:01
-
-Contribution: 2022-10-31 00:02
-
-Contribution: 2022-10-31 00:03
-
-Contribution: 2022-10-31 00:04
-
-Contribution: 2022-11-02 00:00
-
-Contribution: 2022-11-02 00:01
-
-Contribution: 2022-11-02 00:02
-
-Contribution: 2022-11-02 00:03
-
-Contribution: 2022-11-02 00:04
-
-Contribution: 2022-11-02 00:05
-
-Contribution: 2022-11-02 00:06
-
-Contribution: 2022-11-02 00:07
-
-Contribution: 2022-11-02 00:08
-
-Contribution: 2022-11-03 00:00
-
-Contribution: 2022-11-03 00:01
-
-Contribution: 2022-11-04 00:00
-
-Contribution: 2022-11-04 00:01
-
-Contribution: 2022-11-04 00:02
-
-Contribution: 2022-11-04 00:03
-
-Contribution: 2022-11-04 00:04
-
-Contribution: 2022-11-04 00:05
-
-Contribution: 2022-11-04 00:06
-
-Contribution: 2022-11-04 00:07
-
-Contribution: 2022-11-07 00:00
-
-Contribution: 2022-11-07 00:01
-
-Contribution: 2022-11-07 00:02
-
-Contribution: 2022-11-07 00:03
-
-Contribution: 2022-11-07 00:04
-
-Contribution: 2022-11-07 00:05
-
-Contribution: 2022-11-07 00:06
-
-Contribution: 2022-11-07 00:07
-
-Contribution: 2022-11-07 00:08
-
-Contribution: 2022-11-07 00:09
-
-Contribution: 2022-11-08 00:00
-
-Contribution: 2022-11-08 00:01
-
-Contribution: 2022-11-08 00:02
-
-Contribution: 2022-11-08 00:03
-
-Contribution: 2022-11-08 00:04
-
-Contribution: 2022-11-08 00:05
-
-Contribution: 2022-11-08 00:06
-
-Contribution: 2022-11-08 00:07
-
-Contribution: 2022-11-08 00:08
-
-Contribution: 2022-11-09 00:00
-
-Contribution: 2022-11-09 00:01
-
-Contribution: 2022-11-09 00:02
-
-Contribution: 2022-11-09 00:03
-
-Contribution: 2022-11-09 00:04
-
-Contribution: 2022-11-09 00:05
-
-Contribution: 2022-11-09 00:06
-
-Contribution: 2022-11-09 00:07
-
-Contribution: 2022-11-09 00:08
-
-Contribution: 2022-11-09 00:09
-
-Contribution: 2022-11-10 00:00
-
-Contribution: 2022-11-10 00:01
-
-Contribution: 2022-11-10 00:02
-
-Contribution: 2022-11-10 00:03
-
-Contribution: 2022-11-10 00:04
-
-Contribution: 2022-11-10 00:05
-
-Contribution: 2022-11-10 00:06
-
-Contribution: 2022-11-10 00:07
-
-Contribution: 2022-11-10 00:08
-
-Contribution: 2022-11-11 00:00
-
-Contribution: 2022-11-11 00:01
-
-Contribution: 2022-11-11 00:02
-
-Contribution: 2022-11-11 00:03
-
-Contribution: 2022-11-11 00:04
-
-Contribution: 2022-11-11 00:05
-
-Contribution: 2022-11-11 00:06
-
-Contribution: 2022-11-14 00:00
-
-Contribution: 2022-11-14 00:01
-
-Contribution: 2022-11-14 00:02
-
-Contribution: 2022-11-14 00:03
-
-Contribution: 2022-11-14 00:04
-
-Contribution: 2022-11-14 00:05
-
-Contribution: 2022-11-15 00:00
-
-Contribution: 2022-11-15 00:01
-
-Contribution: 2022-11-15 00:02
-
-Contribution: 2022-11-16 00:00
-
-Contribution: 2022-11-16 00:01
-
-Contribution: 2022-11-16 00:02
-
-Contribution: 2022-11-16 00:03
-
-Contribution: 2022-11-16 00:04
-
-Contribution: 2022-11-16 00:05
-
-Contribution: 2022-11-16 00:06
-
-Contribution: 2022-11-16 00:07
-
-Contribution: 2022-11-16 00:08
-
-Contribution: 2022-11-18 00:00
-
-Contribution: 2022-11-18 00:01
-
-Contribution: 2022-11-18 00:02
-
-Contribution: 2022-11-18 00:03
-
-Contribution: 2022-11-18 00:04
-
-Contribution: 2022-11-18 00:05
-
-Contribution: 2022-11-18 00:06
-
-Contribution: 2022-11-18 00:07
-
-Contribution: 2022-11-21 00:00
-
-Contribution: 2022-11-21 00:01
-
-Contribution: 2022-11-22 00:00
-
-Contribution: 2022-11-22 00:01
-
-Contribution: 2022-11-22 00:02
-
-Contribution: 2022-11-22 00:03
-
-Contribution: 2022-11-22 00:04
-
-Contribution: 2022-11-22 00:05
-
-Contribution: 2022-11-22 00:06
-
-Contribution: 2022-11-22 00:07
-
-Contribution: 2022-11-22 00:08
-
-Contribution: 2022-11-22 00:09
-
-Contribution: 2022-11-24 00:00
-
-Contribution: 2022-11-24 00:01
-
-Contribution: 2022-11-24 00:02
-
-Contribution: 2022-11-24 00:03
-
-Contribution: 2022-11-24 00:04
-
-Contribution: 2022-11-25 00:00
-
-Contribution: 2022-11-25 00:01
-
-Contribution: 2022-11-25 00:02
-
-Contribution: 2022-11-25 00:03
-
-Contribution: 2022-11-25 00:04
-
-Contribution: 2022-11-25 00:05
-
-Contribution: 2022-11-25 00:06
-
-Contribution: 2022-11-28 00:00
-
-Contribution: 2022-11-28 00:01
-
-Contribution: 2022-11-28 00:02
-
-Contribution: 2022-11-28 00:03
-
-Contribution: 2022-11-28 00:04
-
-Contribution: 2022-11-29 00:00
-
-Contribution: 2022-11-29 00:01
-
-Contribution: 2022-11-29 00:02
-
-Contribution: 2022-11-29 00:03
-
-Contribution: 2022-11-29 00:04
-
-Contribution: 2022-12-01 00:00
-
-Contribution: 2022-12-01 00:01
-
-Contribution: 2022-12-01 00:02
-
-Contribution: 2022-12-01 00:03
-
-Contribution: 2022-12-01 00:04
-
-Contribution: 2022-12-01 00:05
-
-Contribution: 2022-12-01 00:06
-
-Contribution: 2022-12-01 00:07
-
-Contribution: 2022-12-01 00:08
-
-Contribution: 2022-12-02 00:00
-
-Contribution: 2022-12-02 00:01
-
-Contribution: 2022-12-02 00:02
-
-Contribution: 2022-12-02 00:03
-
-Contribution: 2022-12-02 00:04
-
-Contribution: 2022-12-05 00:00
-
-Contribution: 2022-12-05 00:01
-
-Contribution: 2022-12-06 00:00
-
-Contribution: 2022-12-06 00:01
-
-Contribution: 2022-12-06 00:02
-
-Contribution: 2022-12-06 00:03
-
-Contribution: 2022-12-06 00:04
-
-Contribution: 2022-12-06 00:05
-
-Contribution: 2022-12-06 00:06
-
-Contribution: 2022-12-06 00:07
-
-Contribution: 2022-12-06 00:08
-
-Contribution: 2022-12-06 00:09
-
-Contribution: 2022-12-07 00:00
-
+  
